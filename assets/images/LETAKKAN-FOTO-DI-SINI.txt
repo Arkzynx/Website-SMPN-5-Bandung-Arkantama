@@ -1,1 +1,0 @@
-Simpan foto/logo sekolah di folder ini, lalu panggil dengan src="assets/images/nama-file.jpg" atau url(assets/images/nama-file.jpg).
